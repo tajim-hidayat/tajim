@@ -1,4 +1,4 @@
 # tajim
 this is my frist repo
 <br>
-author - "Tajim Hidayat"
+author - "Tajim (Hidayat)"git 
